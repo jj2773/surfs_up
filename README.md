@@ -18,7 +18,9 @@ The following python libraries were utlized for this study:
 Using the sqlite hawaii weather database code was written to retrieve and plot a year of precipitation data.
 ![alt text](https://github.com/jj2773/surfs_up/blob/main/yearly_rainfall.PNG)
 
+
 A statistical analysis of precipitation data was calculated.
+
 ![alt text](https://github.com/jj2773/surfs_up/blob/main/rainstats.PNG)
 
 A histogram of temperatures was also created from the reporting station USC00519281.  
